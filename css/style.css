@@ -126,7 +126,7 @@ p {
 
 #navbar ul li a:hover {
     background: #93cb52;
-    border-radius: 0;
+    border-radius: 5px;
 }
 
 
