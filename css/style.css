@@ -161,7 +161,7 @@ p {
 }
 #about .items .item {
     flex: 1;
-    text-align: ;
+    text-align: center;
     padding: 1rem;
 }
 
