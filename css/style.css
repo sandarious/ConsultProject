@@ -133,14 +133,14 @@ p {
 /* Section: Main */
 #main {
     background: beige url('../img/high-rise-building-during-nighttime-1769409.jpg') no-repeat center center/cover;
-    height: 100vh;
+    border-radius: 0;
     color:#ffff;
 }
 
 .main-content {
     display: flex;
     flex-direction: column;
-    text-align: center;
+    border-radius: 0;
     justify-content: center;
     align-items: center;
     height: 100%;
