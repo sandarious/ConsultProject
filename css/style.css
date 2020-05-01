@@ -50,6 +50,12 @@ p {
     color: white;
 }
 
+.bg-primary2 {
+    background: #fff;
+    color: #333;
+}
+
+
 .l-heading {
     font-size: 3rem;
     margin-bottom: 0.75rem;
@@ -210,6 +216,11 @@ p {
 #contact .contact-form textarea {
     width: 100%;
     padding: 0.5rem;
+}
+
+#contact .map {
+    flex: 1;
+    color: #444;
 }
 
 
