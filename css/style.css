@@ -61,6 +61,7 @@ p {
     margin-bottom: 0.75rem;
     line-height: 1.1;
 }
+
 .m-heading {
     font-size: 1.5rem;
     margin-bottom: 0.75rem;
@@ -139,14 +140,14 @@ p {
 /* Section: Main */
 #main {
     background: beige url('../img/high-rise-building-during-nighttime-1769409.jpg') no-repeat center center/cover;
-    border-radius: 0;
+    height: 100vh;
     color:#ffff;
 }
 
 .main-content {
     display: flex;
     flex-direction: column;
-    border-radius: 0;
+    text-align: center;
     justify-content: center;
     align-items: center;
     height: 100%;
